@@ -1,0 +1,21 @@
+Drug 1,Drug 2,Severity,Interaction Description
+Aspirin,Warfarin,Severe,Aspirin + Warfarin dapat meningkatkan risiko perdarahan.
+Ibuprofen,Lisinopril,Moderate,Ibuprofen + Lisinopril dapat mengurangi efektivitas obat tekanan darah.
+Paracetamol,Omeprazole,Mild,"Paracetamol + Omeprazole biasanya aman, tapi bisa mempengaruhi metabolisme di hati."
+Metformin,Insulin,Severe,Metformin + Insulin dapat menyebabkan hipoglikemia berat.
+Amlodipine,Atorvastatin,Moderate,Amlodipine + Atorvastatin dapat meningkatkan kadar statin dalam darah.
+Simvastatin,Erythromycin,Severe,Simvastatin + Erythromycin meningkatkan risiko efek samping otot (rhabdomyolysis).
+Amoxicillin,Methotrexate,Severe,Amoxicillin + Methotrexate dapat meningkatkan toksisitas Methotrexate.
+Ciprofloxacin,Theophylline,Moderate,Ciprofloxacin + Theophylline dapat meningkatkan kadar Theophylline dalam darah.
+Diclofenac,Lithium,Severe,Diclofenac + Lithium dapat meningkatkan kadar Lithium dalam darah.
+Dexamethasone,Phenytoin,Moderate,Dexamethasone + Phenytoin dapat menurunkan efektivitas kortikosteroid.
+Clopidogrel,Proton Pump Inhibitors,Severe,Clopidogrel + Proton Pump Inhibitors dapat menurunkan efektivitas Clopidogrel.
+Rifampin,Oral Contraceptives,Severe,Rifampin + Oral Contraceptives dapat menurunkan efektivitas kontrasepsi.
+Ketoconazole,Cyclosporine,Severe,Ketoconazole + Cyclosporine dapat meningkatkan kadar Cyclosporine dalam darah.
+Omeprazole,Clopidogrel,Moderate,Omeprazole + Clopidogrel dapat mengurangi efek antiplatelet Clopidogrel.
+Doxycycline,Calcium,Mild,Doxycycline + Calcium dapat mengurangi penyerapan Doxycycline.
+Prednisone,NSAIDs,Moderate,Prednisone + NSAIDs dapat meningkatkan risiko tukak lambung.
+Captopril,Potassium Supplements,Severe,Captopril + Potassium Supplements dapat meningkatkan risiko hiperkalemia.
+Atorvastatin,Grapefruit Juice,Moderate,Atorvastatin + Grapefruit Juice dapat meningkatkan kadar statin dalam darah.
+Warfarin,Amiodarone,Severe,Warfarin + Amiodarone dapat meningkatkan risiko perdarahan.
+Losartan,Hydrochlorothiazide,Moderate,Losartan + Hydrochlorothiazide dapat meningkatkan efek antihipertensi.
